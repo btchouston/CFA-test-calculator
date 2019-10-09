@@ -4,7 +4,7 @@ A sample application for a test with code for Africa.
 
 This is a very simple server written in python for a test purpose. 
 
-##How to launch it : 
+## How to launch it : 
 - you must have python3 installed
 - install the requiments
 - run the CFA-test-calculator-server.py file with python3
