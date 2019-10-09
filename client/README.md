@@ -6,12 +6,15 @@ This is a simple ReactJs application that run as calculator :
 
 ## How to launch it : 
 - you must have npm installed
-- install axios for server communication : 
+- inside the folder calculator, run the following commands : 
+
 ```sh
-npm install axios       
-```
-- inside the folder calculator, run the command : 
-```sh
+npm install
+
+npm install axios
+
+npm run build
+
 npm start
 ```
 the application will run in the development mode on the default port : 3000, 
